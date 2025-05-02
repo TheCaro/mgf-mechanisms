@@ -14,8 +14,6 @@ X=size(A);
 x=X(1);
 %r is the fraction of tax revenue that the participating countries are
 %allowed to retain.
-%R is the factor by which the tax rate on flights with non-participants is
-%multiplied relative to the the tax rate on flights between participants.
 %S is the 1 by N vector recording the players' actions, where a -1 in the
 %ith component means that player i participates without a claim to the right to
 %influence whilst a 0 in the ith component means that player i does not participate at all.
